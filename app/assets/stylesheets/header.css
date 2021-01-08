@@ -23,7 +23,10 @@ nav{
  height: 70px;
  padding: 0 1em;
 }
- 
+
+ul {
+  list-style: none;
+}
 /*ナビゲーション部分*/
  
 .menu ul li a {
